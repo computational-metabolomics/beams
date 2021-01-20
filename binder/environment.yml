@@ -1,0 +1,8 @@
+name: beampsy
+channels:
+  - conda-forge
+  - bioconda
+  - computational-metabolomics
+dependencies:
+ - beamspy
+ 
